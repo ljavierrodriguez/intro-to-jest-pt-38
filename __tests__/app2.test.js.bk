@@ -1,0 +1,3 @@
+test('Usando Jest', () => {
+    console.log("Using Jest");
+})

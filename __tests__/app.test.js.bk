@@ -1,0 +1,7 @@
+test('Usando Jest 1', () => {
+    console.log("Using Jest");
+})
+
+test('Usando Jest 2', () => {
+    console.log("Using Jest");
+})
